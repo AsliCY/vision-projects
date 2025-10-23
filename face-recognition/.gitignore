@@ -1,0 +1,21 @@
+# Virtual Environment
+cv-venv/
+venv/
+env/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Kişisel fotoğraflar
+reference.jpg
+*.jpg
+*.jpeg
+*.png
